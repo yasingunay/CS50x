@@ -1,7 +1,8 @@
 
 # CS50x - 2023
+[Introduction](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
-
+[CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
 
 
 ## Course description
@@ -25,12 +26,6 @@ C, Python, SQL, and JavaScript plus CSS and HTML.
 * How to engage with a vibrant community of like-minded learners from all levels of experience
 
 * How to develop and present a final programming project to your peers
-
-
- 
-[Introduction](https://pll.harvard.edu/course/cs50-introduction-computer-science)
-
-[CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
 
 ## Projects
 [Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)
@@ -60,4 +55,4 @@ C, Python, SQL, and JavaScript plus CSS and HTML.
  * [Runoff](https://cs50.harvard.edu/x/2023/psets/3/runoff/)
 
 
-*This repository is for storing my projects and files from Harvard University's CS50x course. It is not meant for sharing answers or encouraging academic dishonesty. If you are currently enrolled, please complete the assignments independently and refer to the course materials.*
+*Please note that this repository is for storing my projects and files from Harvard University's CS50x course. It is not meant for sharing answers or encouraging academic dishonesty. If you are currently enrolled, please complete the assignments independently and refer to the course materials.*
