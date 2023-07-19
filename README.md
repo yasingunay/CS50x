@@ -55,7 +55,7 @@ C, Python, SQL, and JavaScript plus CSS and HTML.
  * [Runoff](https://cs50.harvard.edu/x/2023/psets/3/runoff/)
 
 ## Useful resources
-[Recursion](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
+[5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
 
 
 *Please note that this repository is for storing my projects and files from Harvard University's CS50x course. It is not meant for sharing answers or encouraging academic dishonesty. If you are currently enrolled, please complete the assignments independently and refer to the course materials.*
