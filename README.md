@@ -1,4 +1,4 @@
-
+![50!](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IYCifTCCR2ah-79u94Z3wg.png)
 # CS50x - 2023
 [Introduction](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
