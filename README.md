@@ -4,7 +4,7 @@
 
 [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
 
-[CS50 Certificate][https://cs50.harvard.edu/x/2023/certificate/]
+[CS50 Certificate](https://cs50.harvard.edu/x/2023/certificate/)
 
 
 ## Course description
