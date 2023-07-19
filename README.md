@@ -53,10 +53,11 @@ C, Python, SQL, and JavaScript plus CSS and HTML.
  * [Wordle50](https://cs50.harvard.edu/x/2023/psets/2/wordle50/)
 
 [Week 3](https://cs50.harvard.edu/x/2023/weeks/3/)
- * [atoi](https://cs50.harvard.edu/x/2023/problems/3/atoi/)
+ * [Atoi](https://cs50.harvard.edu/x/2023/problems/3/atoi/)
  * [Average High Temperatures](https://cs50.harvard.edu/x/2023/problems/3/temps/)
  * [Max](https://cs50.harvard.edu/x/2023/problems/3/max/)
  * [Snackbar](https://cs50.harvard.edu/x/2023/problems/3/snackbar/)
+ * [Sort](https://cs50.harvard.edu/x/2023/labs/3/)
  * [Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/)
  * [Runoff](https://cs50.harvard.edu/x/2023/psets/3/runoff/)
 
