@@ -1,4 +1,4 @@
-![50!](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IYCifTCCR2ah-79u94Z3wg.png)
+![first!](https://www.classcentral.com/report/wp-content/uploads/2022/05/cs50-2023-student-demo.png)
 # CS50x - 2023
 [Introduction](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
@@ -64,5 +64,6 @@ C, Python, SQL, JavaScript, CSS, HTML
 ## Useful resources
 [5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
 
+![50!](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IYCifTCCR2ah-79u94Z3wg.png)
 
 *Please note that this repository is for storing my projects and files from Harvard University's CS50x course. It is not meant for sharing answers or encouraging academic dishonesty. If you are currently enrolled, please complete the assignments independently and refer to the course materials.*
