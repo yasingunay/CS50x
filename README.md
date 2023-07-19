@@ -29,7 +29,7 @@ C, Python, SQL, and JavaScript plus CSS and HTML.
 
 * How to develop and present a final programming project to your peers
 
-## Projects
+## Practice Problems / Labs / Problem Sets
 [Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)
  * [Debug](https://cs50.harvard.edu/x/2023/problems/1/debug/)
  * [Half](https://cs50.harvard.edu/x/2023/problems/1/half/)
