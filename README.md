@@ -29,7 +29,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 
 * How to develop and present a final programming project to your peers
 
-![50!](https://prod-discovery.edx-cdn.org/media/course/image/da1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png)
+![50!](https://www.classcentral.com/report/wp-content/uploads/2022/05/cs50-2023-banner-e1673610020393.png)
 
 ## Practice Problems / Labs / Problem Sets
 [Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)
