@@ -12,7 +12,7 @@ This is CS50x , Harvard University's introduction to the intellectual enterprise
 [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
 
 ## Projects
-[Week 1]((https://cs50.harvard.edu/x/2023/weeks/1/))
+[Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)
  * [Debug](https://cs50.harvard.edu/x/2023/problems/1/debug/)
  * [Half](https://cs50.harvard.edu/x/2023/problems/1/half/)
  * [Prime](https://cs50.harvard.edu/x/2023/problems/1/prime/)
@@ -23,9 +23,16 @@ This is CS50x , Harvard University's introduction to the intellectual enterprise
  * [Cash](https://cs50.harvard.edu/x/2023/psets/1/cash/)
  * [Credit](https://cs50.harvard.edu/x/2023/psets/1/credit/)
 
-[Week 2](https://cs50.harvard.edu/x/2023/weeks/3/)
- * [Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/)
- * [Runoff](https://cs50.harvard.edu/x/2023/psets/3/runoff/)
+[Week 2](https://cs50.harvard.edu/x/2023/weeks/2/)
+ * [Hours](https://cs50.harvard.edu/x/2023/problems/2/hours/)
+ * [N0 V0w3ls](https://cs50.harvard.edu/x/2023/problems/2/no-vowels/)
+ * [Password](https://cs50.harvard.edu/x/2023/problems/2/password/)
+ * [Scrabble](https://cs50.harvard.edu/x/2023/labs/2/)
+ * [Readability](https://cs50.harvard.edu/x/2023/psets/2/readability/)
+ * [Bulbs](https://cs50.harvard.edu/x/2023/psets/2/bulbs/)
+ * [Caesar](https://cs50.harvard.edu/x/2023/psets/2/caesar/)
+ * [Substitution](https://cs50.harvard.edu/x/2023/psets/2/substitution/)
+ * [Wordle50](https://cs50.harvard.edu/x/2023/psets/2/wordle50/)
 
 [Week 3](https://cs50.harvard.edu/x/2023/weeks/3/)
  * [Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/)
