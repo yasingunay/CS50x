@@ -14,7 +14,7 @@ This is CS50x , Harvard University's introduction to the intellectual enterprise
 Abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. 
 
 ## Languages
-C, Python, SQL, JavaScript, CSS, HTML. 
+C, Python, SQL, JavaScript, CSS, HTML
 
 ## Objectives
 * A broad and robust understanding of computer science and programming
