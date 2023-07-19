@@ -15,6 +15,20 @@ This is CS50x , Harvard University's introduction to the intellectual enterprise
 [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
 
 ## Lessons
+[Week 1]((https://cs50.harvard.edu/x/2023/weeks/1/))
+ * [Debug](https://cs50.harvard.edu/x/2023/problems/1/debug/)
+ * [Half](https://cs50.harvard.edu/x/2023/problems/1/half/)
+ * [Prime](https://cs50.harvard.edu/x/2023/problems/1/prime/)
+ * [Population Growth](https://cs50.harvard.edu/x/2023/labs/1/)
+ * [Hello](https://cs50.harvard.edu/x/2023/psets/1/hello/)
+ * [Mario-less](https://cs50.harvard.edu/x/2023/psets/1/mario/less/)
+ * [Mario-more](https://cs50.harvard.edu/x/2023/psets/1/mario/more/)
+ * [Cash](https://cs50.harvard.edu/x/2023/psets/1/cash/)
+ * [Credit](https://cs50.harvard.edu/x/2023/psets/1/credit/)
+
+[Week 2](https://cs50.harvard.edu/x/2023/weeks/3/)
+ * [Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/)
+ * [Runoff](https://cs50.harvard.edu/x/2023/psets/3/runoff/)
 
 [Week 3](https://cs50.harvard.edu/x/2023/weeks/3/)
  * [Plurality](https://cs50.harvard.edu/x/2023/psets/3/plurality/)
