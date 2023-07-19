@@ -10,8 +10,10 @@ This is CS50x , Harvard University's introduction to the intellectual enterprise
 ## Topics
 Abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web development. 
 
-## Topics
+## Languages
 C, Python, SQL, and JavaScript plus CSS and HTML. 
+
+
  
 [Introduction](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
