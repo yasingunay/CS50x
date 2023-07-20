@@ -82,32 +82,11 @@ int main(int argc, string argv[])
         printf("\n");
     }
 
-    for (int i = 0; i < voter_count; i++)
-    {
-        for (int j = 0; j < candidate_count; j++)
-        {
-              printf("%d",preferences[i][j]);
-     	}
-		printf("\n");
-    }
-
-
     // Keep holding runoffs until winner exists
     while (true)
     {
-		int y = 0;
-		printf("start while %d\n", y);
         // Calculate votes given remaining candidates
         tabulate();
-
-		//printf("test\n");
-        for (int i = 0; i < candidate_count; i++)
-        {
-            printf("candidates[%d] %d votes",i, candidates[i].votes);
-			printf("\n");
-     	}
-
-
 
         // Check if election has been won
         bool won = print_winner();
@@ -116,15 +95,8 @@ int main(int argc, string argv[])
             break;
         }
 
-		for (int i = 0; i < candidate_count; i++)
-        {
-            printf("candidates[%d] %s",i, candidates[i].eliminated ? "true" : "false");
-			printf("\n");
-     	}
-
         // Eliminate last-place candidates
         int min = find_min();
-		printf("min %d\n", min);
         bool tie = is_tie(min);
 
         // If tie, everyone wins
@@ -148,7 +120,6 @@ int main(int argc, string argv[])
         {
             candidates[i].votes = 0;
         }
-		y++;
     }
     return 0;
 }
@@ -159,12 +130,10 @@ bool vote(int voter, int rank, string name)
 	// Look for voted name in the candidates list
 	for (int i = 0; i < candidate_count; i++)
 	{
-		if(strcmp(name, candidates[i].name) == 0)
+		if (strcmp(name, candidates[i].name) == 0)
 		{
-			//printf("test\n");
 			// Update preferences array
 			preferences[voter][rank] = i;
-			//printf("%d",preferences[voter][rank]);
 			return true;
 		}
 	}
@@ -174,19 +143,17 @@ bool vote(int voter, int rank, string name)
 // Tabulate votes for non-eliminated candidates
 void tabulate(void)
 {
-    for(int i = 0; i < voter_count; i++)
+    for (int i = 0; i < voter_count; i++)
 	{
-		for(int j = 0; j < candidate_count; j++)
+		for (int j = 0; j < candidate_count; j++)
 		{
 			int c = preferences[i][j];
-			if(candidates[c].eliminated == false)
+			if (candidates[c].eliminated == false)
 			{
 				candidates[c].votes++;
 				break;
 			}
-
 		}
-
 	}
     return;
 }
@@ -194,14 +161,11 @@ void tabulate(void)
 // Print the winner of the election, if there is one
 bool print_winner(void)
 {
-
-	printf("voter count %d\n",voter_count / 2 + 1);
 	for (int i = 0; i < candidate_count; i++)
 	{
-		if(candidates[i].votes >= (voter_count / 2) + 1)
+		if (candidates[i].votes >= (voter_count / 2) + 1)
 		{
-			//printf("test\n");
-			printf("%s\n",candidates[i].name);
+			printf("%s\n", candidates[i].name);
 			return true;
 		}
 	}
@@ -212,9 +176,9 @@ bool print_winner(void)
 int find_min(void)
 {
 	int min = candidates[0].votes;
-	for(int i = 0; i < candidate_count - 1; i++)
+	for (int i = 0; i < candidate_count - 1; i++)
 	{
-		if(candidates[i + 1].votes <= min && candidates[i + 1].eliminated == false)
+		if (candidates[i + 1].votes <= min && candidates[i + 1].eliminated == false)
 			min = candidates[i + 1].votes;
 	}
     return min;
@@ -224,15 +188,15 @@ int find_min(void)
 bool is_tie(int min)
 {
 	int false_number = 0;
-	for(int i = 0; i < candidate_count; i++)
+	for (int i = 0; i < candidate_count; i++)
 	{
-		if(candidates[i].eliminated == false)
+		if (candidates[i].eliminated == false)
 			false_number++;
 	}
 	int false_count = 0;
-    for(int i = 0; i < candidate_count; i++)
+    for (int i = 0; i < candidate_count; i++)
 	{
-		if(candidates[i].votes == min && candidates[i].eliminated == false)
+		if (candidates[i].votes == min && candidates[i].eliminated == false)
 			false_count++;
 		if (false_count == false_number)
 			return true;
@@ -243,14 +207,12 @@ bool is_tie(int min)
 // Eliminate the candidate (or candidates) in last place
 void eliminate(int min)
 {
-    for(int i = 0; i < candidate_count; i++)
+    for (int i = 0; i < candidate_count; i++)
 	{
-		if(candidates[i].votes == min)
+		if (candidates[i].votes == min)
 		{
 			candidates[i].eliminated = true;
-			printf("candidates[%d]%s eliminated \n",i, candidates[i].name);
 		}
-
 	}
     return;
 }
