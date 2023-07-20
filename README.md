@@ -64,7 +64,10 @@ C, Python, SQL, JavaScript, CSS, HTML
  * [Runoff](https://cs50.harvard.edu/x/2023/psets/3/runoff/)
 
 ## Useful resources
-[5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
+* [5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
+
+## Tips
+* Test your code with different inputs. check50 does not find some errors!
 
 ![50!](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*IYCifTCCR2ah-79u94Z3wg.png)
 
