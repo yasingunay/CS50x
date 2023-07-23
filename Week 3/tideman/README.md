@@ -14,4 +14,6 @@
 
 
 ## Useful sources
-* to understand lock_pairs: [A Way to Look at Tideman Lock Pairs](https://gist.github.com/nicknapoli82/6c5a1706489e70342e9a0a635ae738c9)
+* to understand lock_pairs:[A Way to Look at Tideman Lock Pairs](https://gist.github.com/nicknapoli82/6c5a1706489e70342e9a0a635ae738c9)
+* [good example for lock_pairs](https://www.youtube.com/watch?v=U8F-AnujLOk&ab_channel=AlgorithmsIllustrator)
+
