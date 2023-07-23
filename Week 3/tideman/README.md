@@ -8,6 +8,7 @@
 * Dont give up!
 * After each funciton(vote, record_preferences, add_pairs etc) check your code with printf. 
 * Test code yourself with different examples.
+* You can use the text.txt file to test your program easily. Download the text.txt file to your folder where you tideman program exists and run as ./tideman a b c d < text.txt
 * To better understand solve this problem at least twice.
 
 
