@@ -4,9 +4,11 @@
 ## Tips
 
 * Tideman was the most challenging problem set in CS50 thus far. It took me a long time to understand.
-* Although the codes we need to write are very short, it is not really easy to set up the algorithms. 
-* Add some printf functions to see candidates votes, whether candidates eliminated or not etc.
-* Test code yourself with different examples. For some cases, check50 does not find some errors!
+* Although the codes we need to write are very short, it is not really easy to set up the algorithms.
+* Dont give up!
+* After each funciton(vote, record_preferences, add_pairs etc) check your code with printf. 
+* Test code yourself with different examples.
+* To better understand solve this problem at least twice.
 
 
 
