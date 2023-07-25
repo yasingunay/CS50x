@@ -68,6 +68,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Bottom Up](https://cs50.harvard.edu/x/2023/problems/4/bottomup/)
 * [License](https://cs50.harvard.edu/x/2023/problems/4/license/)
 * [Smiley](https://cs50.harvard.edu/x/2023/labs/4/smiley/)
+* [Volume](https://cs50.harvard.edu/x/2023/labs/4/volume/)
 
 ## Useful resources
 * [5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
