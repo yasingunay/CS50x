@@ -70,6 +70,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Smiley](https://cs50.harvard.edu/x/2023/labs/4/smiley/)
 * [Volume](https://cs50.harvard.edu/x/2023/labs/4/volume/)
 * [Filter-less](https://cs50.harvard.edu/x/2023/psets/4/filter/less/#how-to-submit)
+* [Filter-more](https://cs50.harvard.edu/x/2023/psets/4/filter/more/#a-bitmap-more-technical)
 * [Recover](https://cs50.harvard.edu/x/2023/psets/4/recover/#background)
 
 ## Useful resources
