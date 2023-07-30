@@ -74,6 +74,9 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Recover](https://cs50.harvard.edu/x/2023/psets/4/recover/#background)
 * [Reverse](https://cs50.harvard.edu/x/2023/psets/4/reverse/)
 
+[Week 5](https://cs50.harvard.edu/x/2023/weeks/5/)
+* [Trie](https://cs50.harvard.edu/x/2023/problems/5/trie/)
+
 ## Useful resources
 * [5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
 
