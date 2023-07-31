@@ -76,6 +76,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 
 [Week 5](https://cs50.harvard.edu/x/2023/weeks/5/)
 * [Trie](https://cs50.harvard.edu/x/2023/problems/5/trie/)
+* [Inheritance](https://cs50.harvard.edu/x/2023/labs/5/)
 
 ## Useful resources
 * [5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
