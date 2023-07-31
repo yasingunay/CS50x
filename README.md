@@ -80,6 +80,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 
 ## Useful resources
 * [5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
+* [Realloc](https://www.youtube.com/watch?v=z-MHVnhpf9w&t=2s&ab_channel=Log2Base2%C2%AE)
 
 ## Tips
 * Test your code with different inputs. check50 does not find some errors!
