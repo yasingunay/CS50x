@@ -77,6 +77,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 [Week 5](https://cs50.harvard.edu/x/2023/weeks/5/)
 * [Trie](https://cs50.harvard.edu/x/2023/problems/5/trie/)
 * [Inheritance](https://cs50.harvard.edu/x/2023/labs/5/)
+* [Speller](https://cs50.harvard.edu/x/2023/psets/5/speller/)
 
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
