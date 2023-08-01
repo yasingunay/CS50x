@@ -39,6 +39,17 @@ bool check(const char *word)
 }
 
 // Hashes word to a number using the indices of the first three letters
+//Hash function
+    //hash_index
+    //[0]           AAA
+    //[1]           AAB
+    //[2]           AAC
+    //[3]           AAD
+    //[26]          ABA
+    //[52]          ACA
+    //[626]         BAA
+    //[1252]        CAA
+    //[17575]       ZZZ
 unsigned int hash(const char *word)
 {
     // Ensure that the word is not empty and contains at least three characters.
