@@ -1,5 +1,7 @@
 ![first!](https://www.classcentral.com/report/wp-content/uploads/2022/05/cs50-2023-student-demo.png)
 # CS50x - 2023
+[Welcome](https://cs50.harvard.edu/x/2023/)
+
 [Introduction](https://pll.harvard.edu/course/cs50-introduction-computer-science)
 
 [CS50: Introduction to Computer Science](https://cs50.harvard.edu/x/2023/)
