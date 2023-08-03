@@ -81,6 +81,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 
 [Week 6](https://cs50.harvard.edu/x/2023/weeks/6/)
 * [Bank](https://cs50.harvard.edu/x/2023/problems/6/bank/)
+* [Figlet](https://cs50.harvard.edu/x/2023/problems/6/figlet/)
 
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
