@@ -32,7 +32,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 ![50!](https://www.classcentral.com/report/wp-content/uploads/2022/05/cs50-2023-banner-e1673610020393.png)
 
 ## Practice Problems / Labs / Problem Sets
-[Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)
+[Week 1 - C](https://cs50.harvard.edu/x/2023/weeks/1/)
  * [Debug](https://cs50.harvard.edu/x/2023/problems/1/debug/)
  * [Half](https://cs50.harvard.edu/x/2023/problems/1/half/)
  * [Prime](https://cs50.harvard.edu/x/2023/problems/1/prime/)
@@ -43,7 +43,7 @@ C, Python, SQL, JavaScript, CSS, HTML
  * [Cash](https://cs50.harvard.edu/x/2023/psets/1/cash/)
  * [Credit](https://cs50.harvard.edu/x/2023/psets/1/credit/)
 
-[Week 2](https://cs50.harvard.edu/x/2023/weeks/2/)
+[Week 2 - Arrays](https://cs50.harvard.edu/x/2023/weeks/2/)
  * [Hours](https://cs50.harvard.edu/x/2023/problems/2/hours/)
  * [N0 V0w3ls](https://cs50.harvard.edu/x/2023/problems/2/no-vowels/)
  * [Password](https://cs50.harvard.edu/x/2023/problems/2/password/)
@@ -54,7 +54,7 @@ C, Python, SQL, JavaScript, CSS, HTML
  * [Substitution](https://cs50.harvard.edu/x/2023/psets/2/substitution/)
  * [Wordle50](https://cs50.harvard.edu/x/2023/psets/2/wordle50/)
 
-[Week 3](https://cs50.harvard.edu/x/2023/weeks/3/)
+[Week 3 - Algorithms](https://cs50.harvard.edu/x/2023/weeks/3/)
  * [Atoi](https://cs50.harvard.edu/x/2023/problems/3/atoi/)
  * [Average High Temperatures](https://cs50.harvard.edu/x/2023/problems/3/temps/)
  * [Max](https://cs50.harvard.edu/x/2023/problems/3/max/)
@@ -64,7 +64,7 @@ C, Python, SQL, JavaScript, CSS, HTML
  * [Runoff](https://cs50.harvard.edu/x/2023/psets/3/runoff/)
  * [Tideman](https://cs50.harvard.edu/x/2023/psets/3/tideman/)
 
-[Week 4](https://cs50.harvard.edu/x/2023/weeks/4/)
+[Week 4 - Memory](https://cs50.harvard.edu/x/2023/weeks/4/)
 * [Bottom Up](https://cs50.harvard.edu/x/2023/problems/4/bottomup/)
 * [License](https://cs50.harvard.edu/x/2023/problems/4/license/)
 * [Smiley](https://cs50.harvard.edu/x/2023/labs/4/smiley/)
@@ -74,14 +74,15 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Recover](https://cs50.harvard.edu/x/2023/psets/4/recover/#background)
 * [Reverse](https://cs50.harvard.edu/x/2023/psets/4/reverse/)
 
-[Week 5](https://cs50.harvard.edu/x/2023/weeks/5/)
+[Week 5 - Data Structures](https://cs50.harvard.edu/x/2023/weeks/5/)
 * [Trie](https://cs50.harvard.edu/x/2023/problems/5/trie/)
 * [Inheritance](https://cs50.harvard.edu/x/2023/labs/5/)
 * [Speller](https://cs50.harvard.edu/x/2023/psets/5/speller/)
 
-[Week 6](https://cs50.harvard.edu/x/2023/weeks/6/)
+[Week 6 - Python](https://cs50.harvard.edu/x/2023/weeks/6/)
 * [Bank](https://cs50.harvard.edu/x/2023/problems/6/bank/)
 * [Figlet](https://cs50.harvard.edu/x/2023/problems/6/figlet/)
+* [Jar](https://cs50.harvard.edu/x/2023/problems/6/jar/)
 
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
