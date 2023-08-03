@@ -2,7 +2,7 @@
 (https://cs50.harvard.edu/x/2023/problems/6/bank/)
 
 ## Tips
-To implement the described program in Python, you can use the following functions:
+To implement bank.py, you can use the following functions:
 
 * input(): This function is used to prompt the user for input. You can use it to get the user's greeting.
 
