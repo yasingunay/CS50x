@@ -87,6 +87,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
 * [5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
 * [Realloc](https://www.youtube.com/watch?v=z-MHVnhpf9w&t=2s&ab_channel=Log2Base2%C2%AE)
+* [Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 ## Tips
 * Test your code with different inputs. check50 does not find some errors!
