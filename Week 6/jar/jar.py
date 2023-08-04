@@ -1,6 +1,6 @@
 class Jar:
     def __init__(self, capacity=12):
-        if capacity < 0 or capacity > 12:
+        if not isinstance(capacity, int) or capacity < 0:
             raise ValueError("Invalid capacity")
         self._capacity = capacity
         self._size = 0
@@ -9,7 +9,7 @@ class Jar:
         return "🍪" * self._size
 
     def deposit(self, n):
-        if self.size + n > self.capacity:
+        if self.size + n > self._capacity:
             raise ValueError("Max number of cookies reached")
         self._size += n
 
@@ -50,3 +50,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
