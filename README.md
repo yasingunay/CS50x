@@ -83,6 +83,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Bank](https://cs50.harvard.edu/x/2023/problems/6/bank/)
 * [Figlet](https://cs50.harvard.edu/x/2023/problems/6/figlet/)
 * [Jar](https://cs50.harvard.edu/x/2023/problems/6/jar/)
+* [Seven Day Averages](https://cs50.harvard.edu/x/2023/problems/6/seven-day-average/)
 
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
