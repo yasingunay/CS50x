@@ -1,0 +1,118 @@
+N = 10
+world-cup/ $ time python tournament.py 2018m.csv
+Brazil: 30.0% chance of winning
+England: 20.0% chance of winning
+Portugal: 20.0% chance of winning
+Spain: 20.0% chance of winning
+Croatia: 10.0% chance of winning
+
+real    0m0.028s
+user    0m0.023s
+sys     0m0.004s
+-------------------------------------------------
+N = 100
+world-cup/ $ time python tournament.py 2018m.csv
+Brazil: 26.0% chance of winning
+Belgium: 24.0% chance of winning
+Portugal: 19.0% chance of winning
+Spain: 10.0% chance of winning
+Switzerland: 6.0% chance of winning
+Argentina: 5.0% chance of winning
+Denmark: 4.0% chance of winning
+France: 3.0% chance of winning
+England: 2.0% chance of winning
+Colombia: 1.0% chance of winning
+
+real    0m0.040s
+user    0m0.030s
+sys     0m0.008s
+-------------------------------------------------
+N = 1000
+world-cup/ $ time python tournament.py 2018m.csv
+Belgium: 21.9% chance of winning
+Brazil: 20.7% chance of winning
+Portugal: 15.5% chance of winning
+Spain: 12.3% chance of winning
+Switzerland: 9.7% chance of winning
+Argentina: 7.1% chance of winning
+Denmark: 3.6% chance of winning
+France: 2.8% chance of winning
+Colombia: 2.1% chance of winning
+England: 1.8% chance of winning
+Croatia: 1.6% chance of winning
+Mexico: 0.6% chance of winning
+Sweden: 0.2% chance of winning
+Uruguay: 0.1% chance of winning
+
+real    0m0.036s
+user    0m0.036s
+sys     0m0.000s
+-------------------------------------------------
+N = 10000
+world-cup/ $ time python tournament.py 2018m.csv
+Brazil: 21.3% chance of winning
+Belgium: 21.1% chance of winning
+Portugal: 14.2% chance of winning
+Spain: 11.9% chance of winning
+Switzerland: 10.1% chance of winning
+Argentina: 7.7% chance of winning
+Denmark: 3.2% chance of winning
+France: 3.1% chance of winning
+England: 2.9% chance of winning
+Colombia: 1.6% chance of winning
+Croatia: 1.4% chance of winning
+Mexico: 0.6% chance of winning
+Uruguay: 0.5% chance of winning
+Sweden: 0.5% chance of winning
+Russia: 0.0% chance of winning
+
+real    0m0.103s
+user    0m0.097s
+sys     0m0.004s
+-------------------------------------------------
+N = 100000
+world-cup/ $ time python tournament.py 2018m.csv
+Brazil: 20.9% chance of winning
+Belgium: 20.8% chance of winning
+Portugal: 14.2% chance of winning
+Spain: 12.1% chance of winning
+Switzerland: 10.3% chance of winning
+Argentina: 7.9% chance of winning
+France: 3.4% chance of winning
+Denmark: 3.1% chance of winning
+England: 2.8% chance of winning
+Colombia: 1.6% chance of winning
+Croatia: 1.4% chance of winning
+Mexico: 0.5% chance of winning
+Sweden: 0.5% chance of winning
+Uruguay: 0.4% chance of winning
+Russia: 0.0% chance of winning
+Japan: 0.0% chance of winning
+
+real    0m1.191s
+user    0m0.916s
+sys     0m0.024s
+-------------------------------------------------
+N = 1000000
+world-cup/ $ time python tournament.py 2018m.csv
+Belgium: 21.1% chance of winning
+Brazil: 20.7% chance of winning
+Portugal: 14.1% chance of winning
+Spain: 12.0% chance of winning
+Switzerland: 10.4% chance of winning
+Argentina: 7.8% chance of winning
+France: 3.4% chance of winning
+Denmark: 3.2% chance of winning
+England: 2.8% chance of winning
+Colombia: 1.6% chance of winning
+Croatia: 1.4% chance of winning
+Mexico: 0.6% chance of winning
+Sweden: 0.5% chance of winning
+Uruguay: 0.5% chance of winning
+Russia: 0.0% chance of winning
+Japan: 0.0% chance of winning
+
+real    0m7.655s
+user    0m7.534s
+sys     0m0.004s
+world-cup/ $
