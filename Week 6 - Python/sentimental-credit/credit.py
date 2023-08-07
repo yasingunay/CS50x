@@ -21,6 +21,8 @@ def main():
 
 def is_mastercard(card_number):
     if len(card_number) == 16:
+
+        # Check card_number starts with 51, 52, 53, 54, 55
         prefixes = ["51", "52", "53", "54", "55"]
         for prefix in prefixes:
             if card_number.startswith(prefix):
