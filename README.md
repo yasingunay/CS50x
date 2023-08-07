@@ -86,6 +86,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Seven Day Averages](https://cs50.harvard.edu/x/2023/problems/6/seven-day-average/)
 * [Taqueria](https://cs50.harvard.edu/x/2023/problems/6/taqueria/)
 * [World Cup](https://cs50.harvard.edu/x/2023/labs/6/)
+* [Hello](https://cs50.harvard.edu/x/2023/psets/6/hello/#hello)
 
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
