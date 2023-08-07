@@ -87,7 +87,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Taqueria](https://cs50.harvard.edu/x/2023/problems/6/taqueria/)
 * [World Cup](https://cs50.harvard.edu/x/2023/labs/6/)
 * [Hello](https://cs50.harvard.edu/x/2023/psets/6/hello/#hello)
-* [Mario](https://cs50.harvard.edu/x/2023/psets/6/mario/less/)
+* [Mario-less](https://cs50.harvard.edu/x/2023/psets/6/mario/less/)
 
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
