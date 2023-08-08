@@ -92,6 +92,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Cash](https://cs50.harvard.edu/x/2023/psets/6/cash/)
 * [Credit](https://cs50.harvard.edu/x/2023/psets/6/credit/)
 * [Readability](https://cs50.harvard.edu/x/2023/psets/6/readability/)
+* [DNA](https://cs50.harvard.edu/x/2023/psets/6/dna/#dna)
 
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
