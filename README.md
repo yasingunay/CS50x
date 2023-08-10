@@ -103,6 +103,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Realloc](https://www.youtube.com/watch?v=z-MHVnhpf9w&t=2s&ab_channel=Log2Base2%C2%AE)
 * [Python Tutorial](https://www.w3schools.com/python/default.asp)
 * [Regular Expressions](https://regex101.com/)
+* [DB Browser for SQLite](https://sqlitebrowser.org/)
 
 ## Tips
 * Test your code with different inputs. check50 does not find some errors!
