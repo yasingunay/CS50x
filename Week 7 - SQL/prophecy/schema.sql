@@ -18,9 +18,19 @@ CREATE TABLE IF NOT EXISTS house_assignments(
     );
 
 
+-- Some useful sql queries
+SELECT * FROM students;
+
+
+SELECT students.id, students.student_name, houses.house
+FROM students
+INNER JOIN house_assignments ON students.id = house_assignments.student_id
+INNER JOIN houses ON houses.house = house_assignments.house_id
+ORDER BY students.id;
+
+
 
 -- IN SQL there is no way to delete spesific columns so we need to do following steps to do that:
-
 -- Create a new_student table
 CREATE TABLE new_students(id INTEGER NOT NULL, student_name TEXT, PRIMARY KEY(id));
 
@@ -32,19 +42,3 @@ DROP TABLE students;
 
 --Rename the new_students table to the original table name (students)
 ALTER TABLE new_students RENAME TO students;
-
-
-
-
-INSERT INTO houses(house_name, head) VALUES ('Slytherin', 'Severus Snape'), ('Ravenclaw', 'Filius Flitwick'), ('Hufflepuff', 'Pomona Sprout'), ('Gryffindor', 'Minerva McGonagall');
-
-
--- Some useful sql queries
-SELECT * FROM students;
-
-
-SELECT students.id, students.student_name, houses.house
-FROM students
-INNER JOIN house_assignments ON students.id = house_assignments.student_id
-INNER JOIN houses ON houses.house = house_assignments.house_id
-ORDER BY students.id;
