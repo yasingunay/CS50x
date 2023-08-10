@@ -94,6 +94,9 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Readability](https://cs50.harvard.edu/x/2023/psets/6/readability/)
 * [DNA](https://cs50.harvard.edu/x/2023/psets/6/dna/#dna)
 
+[Week 7 - SQL](https://cs50.harvard.edu/x/2023/weeks/6/)
+* [Favorites](https://cs50.harvard.edu/x/2023/problems/7/favorites/#favorites)
+
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
 * [5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
