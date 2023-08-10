@@ -97,6 +97,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 [Week 7 - SQL](https://cs50.harvard.edu/x/2023/weeks/6/)
 * [Favorites](https://cs50.harvard.edu/x/2023/problems/7/favorites/#favorites)
 * [Hall of Prophecy](https://cs50.harvard.edu/x/2023/problems/7/prophecy/)
+* [Songs](https://cs50.harvard.edu/x/2023/labs/7/#how-to-submit)
 
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
