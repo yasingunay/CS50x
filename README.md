@@ -105,6 +105,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Python Tutorial](https://www.w3schools.com/python/default.asp)
 * [Regular Expressions](https://regex101.com/)
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
+* [SQL Keywords Reference](https://www.w3schools.com/sql/sql_ref_keywords.asp)
 
 ## Tips
 * Test your code with different inputs. check50 does not find some errors!
