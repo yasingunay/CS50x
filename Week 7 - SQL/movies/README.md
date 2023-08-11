@@ -2,7 +2,7 @@
 (https://cs50.harvard.edu/x/2023/psets/7/movies/)
 
 ## Tips
-* I wanted to bring to your attention an issue I encountered while using Check50 in 9.sql
+* I wanted to bring to your attention an issue I encountered while using Check50 in 9.sql.
 Upon reviewing the Check50 results, I noticed that an incorrect query was marked as correct, despite producing an output that differs in row count from the expected result. 
 The query in question is as follows:
 
