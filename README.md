@@ -99,6 +99,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Hall of Prophecy](https://cs50.harvard.edu/x/2023/problems/7/prophecy/)
 * [Songs](https://cs50.harvard.edu/x/2023/labs/7/#how-to-submit)
 * [Movies](https://cs50.harvard.edu/x/2023/psets/7/movies/)
+* [Fiftyville](https://cs50.harvard.edu/x/2023/psets/7/fiftyville/)
 
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
