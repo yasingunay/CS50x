@@ -101,6 +101,9 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Movies](https://cs50.harvard.edu/x/2023/psets/7/movies/)
 * [Fiftyville](https://cs50.harvard.edu/x/2023/psets/7/fiftyville/)
 
+[Week 8 - HTML, CSS, JavaScript ](https://cs50.harvard.edu/x/2023/weeks/8/)
+* [Radio Shack Redo](https://cs50.harvard.edu/x/2023/problems/8/redo/)
+
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
 * [5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
