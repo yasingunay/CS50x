@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
+        <title>Trivia!</title>
+        <script>
+                document.addEventListener('DOMContentLoaded', function(){
+
+                    let correct = document.querySelector('.correct');
+                    correct.addEventListener('click', function(){
+                        correct.style.backgroundColor = 'green';
+                        document.querySelector('#feedback').innerHTML = 'Correct!';
+                    });
+
+                    let incorrects= document.querySelectorAll('.incorrect');
+                    for (let i = 0; i < incorrects.length; i++)
+                    {
+                        incorrects[i].addEventListener('click', function(){
+                            incorrects[i].style.backgroundColor = 'red';
+                            document.querySelector('#feedback').innerHTML = 'Incorrect!';
+                        });
+                    }
+
+                    document.querySelector('#check').addEventListener('click', function(){
+                        let input = document.querySelector('input');
+                        if (input.value == '1912'){
+                            input.style.backgroundColor = 'green';
+                            document.querySelector('#result').innerHTML = 'Correct!';
+                        } else {
+                            input.style.backgroundColor = 'red';
+                            document.querySelector('#result').innerHTML = 'Incorrect'
+                        }
+                    })
+                });
+
+        </script>
+    </head>
+    <body class="center-text">
+        <div class="header">
+            <h1>Trivia!</h1>
+        </div>
+
+        <div class="container">
+            <div class="section">
+                <h2>Part 1: Multiple Choice </h2>
+                <hr>
+                <h3>What’s the name of Hagrid’s pet spider?</h3>
+                <button class ="incorrect">Nigini</button>
+                <button class ="incorrect">Crookshanks</button>
+                <button class ="correct">Aragog</button>
+                <button class ="incorrect">Mosag</button>
+
+                <p id="feedback"></p>
+
+
+            </div>
+
+            <div class="section">
+                <h2>Part 2: Free Response</h2>
+                <hr>
+                <h3>What year did the Titanic sink?</h3>
+                <input type="text"></input>
+                <button id="check">Check answer</button>
+
+                <p id="result"></p>
+            </div>
+        </div>
+    </body>
+</html>
