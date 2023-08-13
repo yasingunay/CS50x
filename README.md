@@ -103,6 +103,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 
 [Week 8 - HTML, CSS, JavaScript ](https://cs50.harvard.edu/x/2023/weeks/8/)
 * [Radio Shack Redo](https://cs50.harvard.edu/x/2023/problems/8/redo/)
+* [Trivia](https://cs50.harvard.edu/x/2023/labs/8/)
 
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
