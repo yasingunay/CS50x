@@ -114,6 +114,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
 * [SQL Keywords Reference](https://www.w3schools.com/sql/sql_ref_keywords.asp)
 * [Bootstrap](https://getbootstrap.com/)
+* [Documenting web technologies, including CSS, HTML, and JavaScript](https://developer.mozilla.org/en-US/)
 
 ## Tips
 * Test your code with different inputs. check50 does not find some errors!
