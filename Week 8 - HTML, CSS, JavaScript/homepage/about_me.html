@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <!-- For proper responsive behavior in mobile devices. -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Include Bootstrap’s CSS and JS. -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+
+        <!-- Include my own CSS. -->
+        <link href="styles.css" rel="stylesheet">
+        <title>About me</title>
+        <script src="homepage.js"></script>
+    </head>
+    <body>
+      <div id="menuContainer"></div>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-md-6 offset-md-3">
+              <h2 class="header">MY FAVORITES</h2>
+              <div class="accordion accordion-flush" id="accordionFlushExample">
+                  <div class="accordion-item">
+
+                    <h2 class="accordion-header" id="flush-headingOne">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                        My favorite animal is
+                      </button>
+                    </h2>
+
+                    <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                      <div class="accordion-body"></div>
+                      <img src="https://t4.ftcdn.net/jpg/00/97/58/97/360_F_97589769_t45CqXyzjz0KXwoBZT9PRaWGHRk5hQqQ.jpg" class="img-fluid" alt="cat">
+                    </div>
+                  </div>
+                  <div class="accordion-item">
+
+                    <h2 class="accordion-header" id="flush-headingTwo">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                        My favorite fruit is
+                      </button>
+                    </h2>
+
+                    <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                      <div class="accordion-body"></div>
+                      <img src="https://images.heb.com/is/image/HEBGrocery/002599549-1" class="img-fluid" alt="avocado">
+                    </div>
+                  </div>
+                  <div class="accordion-item">
+
+                    <h2 class="accordion-header" id="flush-headingThree">
+                      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                        My favorite city is
+                      </button>
+                    </h2>
+
+                    <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                      <div class="accordion-body"></div>
+                      <img src="https://www.tastingtable.com/img/gallery/14-foods-and-wines-you-have-to-try-in-rome-italy/l-intro-1667405524.jpg" class="img-fluid" alt="Rome">
+                    </div>
+            </div>
+        </div>
+            </div>
+          </div>
+
+      </div>
+  </body>
+</html>

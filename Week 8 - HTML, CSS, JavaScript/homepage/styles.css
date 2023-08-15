@@ -1,0 +1,56 @@
+.center-text {
+    text-align: center;
+}
+
+.image-container {
+    margin-top: 20px;
+  }
+
+/* Example of tag selector */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+  }
+
+
+  /* Example of class selector */
+.header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+
+
+  /* Example of ID selector */
+#main-content {
+    margin: 30px;
+    border: 1px solid #ccc;
+    padding: 15px;
+    text-align:center
+  }
+
+
+  /* Example of descendant selector */
+#main-content span {
+    color: red;
+  }
+
+/* Styling for links starting with "https" */
+  a[href^="https"] {
+    color: #007bff;
+    text-decoration: none;
+  }
+
+
+
+  .button:hover {
+    background-color: #007bff; /* Change the background color to blue */
+    color: white; /* Change the text color to white */
+  }
+
+
+
+  h1 {
+    font-size: 30px;
+  }
