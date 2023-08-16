@@ -104,6 +104,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 [Week 8 - HTML, CSS, JavaScript ](https://cs50.harvard.edu/x/2023/weeks/8/)
 * [Radio Shack Redo](https://cs50.harvard.edu/x/2023/problems/8/redo/)
 * [Trivia](https://cs50.harvard.edu/x/2023/labs/8/)
+* [Homepage](https://cs50.harvard.edu/x/2023/psets/8/homepage/#homepage)
 
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
@@ -115,6 +116,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [SQL Keywords Reference](https://www.w3schools.com/sql/sql_ref_keywords.asp)
 * [Bootstrap](https://getbootstrap.com/)
 * [Documenting web technologies, including CSS, HTML, and JavaScript](https://developer.mozilla.org/en-US/)
+* [Markup Validation Service](https://validator.w3.org/#validate_by_input)
 
 ## Tips
 * Test your code with different inputs. check50 does not find some errors!
