@@ -106,6 +106,9 @@ C, Python, SQL, JavaScript, CSS, HTML
 * [Trivia](https://cs50.harvard.edu/x/2023/labs/8/)
 * [Homepage](https://cs50.harvard.edu/x/2023/psets/8/homepage/#homepage)
 
+[Week 9 - Flask](https://cs50.harvard.edu/x/2023/weeks/9/)
+* [Hello, Flask](https://cs50.harvard.edu/x/2023/problems/9/helloflask/)
+
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
 * [5 Simple Steps for Solving Any Recursive Problem](https://www.youtube.com/watch?v=ngCos392W4w&ab_channel=Reducible)
