@@ -109,6 +109,7 @@ C, Python, SQL, JavaScript, CSS, HTML
 [Week 9 - Flask](https://cs50.harvard.edu/x/2023/weeks/9/)
 * [Hello, Flask](https://cs50.harvard.edu/x/2023/problems/9/helloflask/)
 * [Birthdays](https://cs50.harvard.edu/x/2023/labs/9/)
+* [C$50 Finance](https://cs50.harvard.edu/x/2023/psets/9/finance/)
 
 ## Useful resources
 * [The best video series about Singly Linked List](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi3-lvwLGzcaquOs5OBTCww)
