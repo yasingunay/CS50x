@@ -1,4 +1,4 @@
-![CS50Certificate!](certificate.png)
+![CS50Certificate!](CS50x-Certificate.png)
 
 # CS50x - 2023
 
